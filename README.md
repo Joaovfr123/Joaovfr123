@@ -13,6 +13,15 @@
 
 ###
 
+<div>
+  <p2>
+    🚀 Sobre mim
+Sou um desenvolvedor iniciante, apaixonado por aprender e criar soluções usando tecnologia.  
+Atualmente, estou aprimorando minhas habilidades em HTML, CSS, JavaScript e explorando Git/GitHub.  
+Meu objetivo é construir projetos que me desafiem, me aprimorem e gerem impacto real.
+  </p2>
+</div>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
